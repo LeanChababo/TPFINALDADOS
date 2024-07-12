@@ -75,6 +75,10 @@ void modoUnJugador(int puntajeMayor[], string nombreDelMayorPuntaje[])
                 Dados[j] = tirar((j + 3) * 10, 16);/// LLAMAMOS A LA FUNCION TIRAR PARA QUE TIRE LOS DADOS Y CON EL ARRAY GUARDAMOS CADA UNO DE ELLOS
             }
 
+            rlutil::locate(7, 17);
+            cout << "puntaje en mesa: " << puntaje(Dados);
+
+
             puntajeTiradas[tirada] = puntaje(Dados); /// CON LA FUNCION PUNTAJE VERIFICAMOS CUAL ES EL RESULTADO DEL PUNTAJE Y ESE RESULTADO LO GUARDAMOS EN CADA TIRADA
 
             if(puntajeTiradas[tirada] == 0 || puntajeTiradas[tirada] == 100){ /// SI EN LA TIRADA SALE SEXTETO DE 6 O ESCALERA ENTONCES FINALIZAMOS NUESTRO WHILE DE TIRADAS

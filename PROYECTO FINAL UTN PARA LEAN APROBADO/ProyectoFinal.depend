@@ -153,3 +153,80 @@
 	"rlutil.h"
 	"misFunciones.h"
 
+1720813205 source:c:\users\usuario\documents\github\tpfinaldados\proyecto final utn para lean aprobado\dados.cpp
+	<iostream>
+	"rlutil.h"
+
+1720809223 c:\users\usuario\documents\github\tpfinaldados\proyecto final utn para lean aprobado\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1720809223 source:c:\users\usuario\documents\github\tpfinaldados\proyecto final utn para lean aprobado\funciones.cpp
+	<iostream>
+	<ctime>
+	"funciones.h"
+	"rlutil.h"
+	"misFunciones.h"
+
+1720813205 c:\users\usuario\documents\github\tpfinaldados\proyecto final utn para lean aprobado\funciones.h
+
+1720809223 c:\users\usuario\documents\github\tpfinaldados\proyecto final utn para lean aprobado\misfunciones.h
+
+1720809223 source:c:\users\usuario\documents\github\tpfinaldados\proyecto final utn para lean aprobado\main.cpp
+	<iostream>
+	"misFunciones.h"
+
+1720809223 source:c:\users\usuario\documents\github\tpfinaldados\proyecto final utn para lean aprobado\menu.cpp
+	<iostream>
+	"rlutil.h"
+	"misFunciones.h"
+
+1720809223 source:c:\users\usuario\documents\github\tpfinaldados\proyecto final utn para lean aprobado\mododosjugadores.cpp
+	<iostream>
+	<ctime>
+	"rlutil.h"
+	"funciones.h"
+	"misFunciones.h"
+
+1720809223 source:c:\users\usuario\documents\github\tpfinaldados\proyecto final utn para lean aprobado\puntaje.cpp
+	<iostream>
+	"funciones.h"
+	"rlutil.h"
+	"misFunciones.h"
+
+1720809223 source:c:\users\usuario\documents\github\tpfinaldados\proyecto final utn para lean aprobado\ranking.cpp
+	<iostream>
+	"rlutil.h"
+	"funciones.h"
+	"misFunciones.h"
+
+1720809223 source:c:\users\usuario\documents\github\tpfinaldados\proyecto final utn para lean aprobado\reglas.cpp
+	<iostream>
+	"funciones.h"
+	"rlutil.h"
+	"misFunciones.h"
+
+1720809223 source:c:\users\usuario\documents\github\tpfinaldados\proyecto final utn para lean aprobado\simulacion.cpp
+	<iostream>
+	<ctime>
+	"funciones.h"
+	"rlutil.h"
+	"misFunciones.h"
+
+1720813758 source:c:\users\usuario\documents\github\tpfinaldados\proyecto final utn para lean aprobado\modounjugador.cpp
+	<iostream>
+	<ctime>
+	"rlutil.h"
+	"funciones.h"
+	"misFunciones.h"
+
