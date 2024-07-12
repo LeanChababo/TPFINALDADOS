@@ -1,0 +1,155 @@
+# depslib dependency file v1.0
+1720189232 source:c:\users\marcos\desktop\cienoescalerautn-main\dados.cpp
+	<iostream>
+	"rlutil.h"
+
+1720185887 c:\users\marcos\desktop\cienoescalerautn-main\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1720185887 source:c:\users\marcos\desktop\cienoescalerautn-main\funciones.cpp
+	<iostream>
+	<ctime>
+	"funciones.h"
+	"rlutil.h"
+	"misFunciones.h"
+
+1720192813 c:\users\marcos\desktop\cienoescalerautn-main\funciones.h
+
+1720190943 c:\users\marcos\desktop\cienoescalerautn-main\misfunciones.h
+
+1720185887 source:c:\users\marcos\desktop\cienoescalerautn-main\main.cpp
+	<iostream>
+	"misFunciones.h"
+
+1720189070 source:c:\users\marcos\desktop\cienoescalerautn-main\menu.cpp
+	<iostream>
+	"rlutil.h"
+	"misFunciones.h"
+
+1720195395 source:c:\users\marcos\desktop\cienoescalerautn-main\mododosjugadores.cpp
+	<iostream>
+	<ctime>
+	"rlutil.h"
+	"funciones.h"
+	"misFunciones.h"
+
+1720194447 source:c:\users\marcos\desktop\cienoescalerautn-main\modounjugador.cpp
+	<iostream>
+	<ctime>
+	"rlutil.h"
+	"funciones.h"
+	"misFunciones.h"
+
+1720189364 source:c:\users\marcos\desktop\cienoescalerautn-main\puntaje.cpp
+	<iostream>
+	"funciones.h"
+	"rlutil.h"
+	"misFunciones.h"
+
+1720190350 source:c:\users\marcos\desktop\cienoescalerautn-main\ranking.cpp
+	<iostream>
+	"rlutil.h"
+	"funciones.h"
+	"misFunciones.h"
+
+1720193350 source:c:\users\marcos\desktop\cienoescalerautn-main\reglas.cpp
+	<iostream>
+	"funciones.h"
+	"rlutil.h"
+	"misFunciones.h"
+
+1720193894 source:c:\users\marcos\desktop\cienoescalerautn-main\simulacion.cpp
+	<iostream>
+	<ctime>
+	"funciones.h"
+	"rlutil.h"
+	"misFunciones.h"
+
+1720217361 source:c:\users\marcos\desktop\proyecto final utn\dados.cpp
+	<iostream>
+	"rlutil.h"
+
+1720185887 c:\users\marcos\desktop\proyecto final utn\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1720213335 source:c:\users\marcos\desktop\proyecto final utn\funciones.cpp
+	<iostream>
+	<ctime>
+	"funciones.h"
+	"rlutil.h"
+	"misFunciones.h"
+
+1720214764 c:\users\marcos\desktop\proyecto final utn\funciones.h
+
+1720190943 c:\users\marcos\desktop\proyecto final utn\misfunciones.h
+
+1720213352 source:c:\users\marcos\desktop\proyecto final utn\main.cpp
+	<iostream>
+	"misFunciones.h"
+
+1720213392 source:c:\users\marcos\desktop\proyecto final utn\menu.cpp
+	<iostream>
+	"rlutil.h"
+	"misFunciones.h"
+
+1720220830 source:c:\users\marcos\desktop\proyecto final utn\mododosjugadores.cpp
+	<iostream>
+	<ctime>
+	"rlutil.h"
+	"funciones.h"
+	"misFunciones.h"
+
+1720220304 source:c:\users\marcos\desktop\proyecto final utn\modounjugador.cpp
+	<iostream>
+	<ctime>
+	"rlutil.h"
+	"funciones.h"
+	"misFunciones.h"
+
+1720223530 source:c:\users\marcos\desktop\proyecto final utn\puntaje.cpp
+	<iostream>
+	"funciones.h"
+	"rlutil.h"
+	"misFunciones.h"
+
+1720213781 source:c:\users\marcos\desktop\proyecto final utn\ranking.cpp
+	<iostream>
+	"rlutil.h"
+	"funciones.h"
+	"misFunciones.h"
+
+1720193350 source:c:\users\marcos\desktop\proyecto final utn\reglas.cpp
+	<iostream>
+	"funciones.h"
+	"rlutil.h"
+	"misFunciones.h"
+
+1720220633 source:c:\users\marcos\desktop\proyecto final utn\simulacion.cpp
+	<iostream>
+	<ctime>
+	"funciones.h"
+	"rlutil.h"
+	"misFunciones.h"
+
